@@ -306,13 +306,6 @@ npm start
 
 To stop, you can run `./network.sh down` in the `fabric-samples/test-network`
 
-## Individual Contributions
-
-| Contributor | Contributions |
-|-------------|---------------|
-| Nour-eddine Aarab    | Implemented the smart contracts and specified user roles and what they can do, bug fixes |
-| Nathan Weesie    | Added (JWT) security and the readme. Fixed bugs in the code like unnecessary comment or not working functions |
-| Wessel Rigter   | Fixed updating and deleting an asset from the smart contract, bug fixes and testing |
 ## References
 
 - Andoni, M., Robu, V., Flynn, D., Abram, S., Geach, D., Jenkins, D., . . . Peacock, A. (2019). Blockchain technology in the energy sector: A systematic review of challenges and opportunities. Renewable and Sustainable Energy Reviews, 100, 143-174. https://doi.org/10.1016/j.rser.2018.10.014
